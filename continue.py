@@ -8,4 +8,4 @@ while x < a:
  if x % 2 == 1:
   continue
  if x % 2 == 0:
-  print x
+  print (x)
