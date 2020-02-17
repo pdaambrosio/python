@@ -10,12 +10,11 @@ def up_low(s):
       print('Number of uppercase characters:'+up)
     elif i.islower:
       low+=1
-      print('Number of lowercase characters:'+lwo)
+      print('Number of lowercase characters:'+low)
     else:
       pass
 
+up_low('Teste')
 
-#up_low('Teste')
-
-#  print('Number of lowercase characters:'+lwo)
-#  print('Number of uppercase characters:'+up)
+#print('Number of lowercase characters:'+low)
+#print('Number of uppercase characters:'+up)
