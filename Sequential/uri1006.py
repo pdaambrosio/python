@@ -1,7 +1,7 @@
-A = float(input())
-B = float(input())
-C = float(input())
+a = float(input())
+b = float(input())
+c = float(input())
 
-AVERAGE = (A * 2 + B * 3 + C * 5) / 10
+average = (a * 2 + b * 3 + c * 5) / 10
 
-print('MEDIA = {:.1f}'.format(AVERAGE))
+print('MEDIA = {:.1f}'.format(average))

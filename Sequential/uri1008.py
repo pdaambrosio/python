@@ -1,8 +1,8 @@
-A = int(input())
-B = int(input())
-C = float(input())
+a = int(input())
+b = int(input())
+c = float(input())
 
-SALARY = B * C
+salary = b * c
 
-print('NUMBER = %s' %A)
-print('SALARY = U$ {:.2f}'.format(SALARY))
+print('NUMBER = %s' %a)
+print('SALARY = U$ {:.2f}'.format(salary))

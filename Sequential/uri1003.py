@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-A = int(input())
-B = int(input())
-SOMA = A + B
+a = int(input())
+b = int(input())
+soma = a + b
 
-print('SOMA = {}'.format(SOMA))
+print('SOMA = {}'.format(soma))

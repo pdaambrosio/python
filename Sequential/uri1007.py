@@ -1,8 +1,8 @@
-A = int(input())
-B = int(input())
-C = int(input())
-D = int(input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
 
-DIFFERENCE = (A * B) - (C * D)
+diference = (a * b) - (c * d)
 
-print('DIFERENCA = %s' %DIFFERENCE)
+print('DIFERENCA = %s' %diference)

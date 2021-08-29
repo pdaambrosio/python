@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
-A = int(input())
-B = int(input())
-X = A + B
+a = int(input())
+b = int(input())
+x = a + b
 
 # print(f'X = {X}') Not accepted by URI
 
-print('X = {}'.format(X))
+print('X = {}'.format(x))
