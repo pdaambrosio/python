@@ -11,4 +11,4 @@ else:
     final_grade = (average + exam) / 2
     result = ['Aluno aprovado.' if final_grade >= 5 else 'Aluno reprovado.']
     print('Media: {:.1f}\nAluno em exame.\nNota do exame: {:.1f}'.format(average, exam))
-    print('{[0]} \nMedia final: {:.1f}'.format(result, final_grade))
+    print('{[0]}\nMedia final: {:.1f}'.format(result, final_grade))
