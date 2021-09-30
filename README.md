@@ -10,4 +10,4 @@
 * [Uri1049](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1049.py)
 * [Uri1061](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1061.py)
 * [Uri1094](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1094.py)
-* [Uri1101]()
+* [Uri1101](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1101.py)
