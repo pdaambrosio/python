@@ -7,6 +7,7 @@
 * [Uri1021](https://github.com/pdaambrosio/Python-Uri/blob/main/Sequential/uri1021.py)
 * [Uri1038](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1038.py)
 * [Uri1040](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1040.py)
+* [Uri1047](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1047.py)
 * [Uri1049](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1049.py)
 * [Uri1061](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1061.py)
 * [Uri1094](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1094.py)
