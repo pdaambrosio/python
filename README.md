@@ -1,4 +1,4 @@
-## Uri Online Judge - Python
+## Uri Online Judge (beecrowd) - Python
 
 ### Favorites
 
