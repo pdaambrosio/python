@@ -18,3 +18,4 @@
 * [Uri1154](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1154.py)
 * [Uri1156](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1156.py)
 * [Uri1157](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1157.py)
+* [Uri1158](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1158.py)
