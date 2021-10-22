@@ -22,3 +22,4 @@
 * [Uri1159](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1159.py)
 * [Uri1160](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1160.py)
 * [Uri1164](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1164.py)
+* [Uri1165](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1165.py)
