@@ -27,3 +27,4 @@
 * [Uri1179 - Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Array/uri1179.py)
 * [Uri1180 - Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Array/uri1180.py)
 * [Uri1181 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1181.py)
+* [Uri1182 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1182.py)
