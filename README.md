@@ -30,3 +30,4 @@
 * [Uri1182 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1182.py)
 * [Uri1183 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1183.py)
 * [Uri1184 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1184.py)
+* [Uri1187 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1187.py)
