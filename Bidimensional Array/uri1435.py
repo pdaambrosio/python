@@ -25,6 +25,7 @@ while True:
         for line in range(first, last):
             for column in range(first, last):
                 matrix[line][column] = count
+                
         first += 1
         last -= 1
     
