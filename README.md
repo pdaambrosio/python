@@ -34,9 +34,5 @@
 * [Uri1189 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1189.py)
 * [Uri1190 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1190.py)
 * [Uri1435 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1435.py)
-<<<<<<< Updated upstream
-* [Uri1478 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1478.py)
-=======
 * [Uri1478 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1478.py)
 * [Uri1543 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1543.py)
->>>>>>> Stashed changes
