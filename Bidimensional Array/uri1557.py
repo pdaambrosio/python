@@ -3,7 +3,8 @@ while True:
 
     if num == 0:
         break
-    elif num == 1:
+
+    if num == 1:
         print(num)
     else:
         matrix = []
@@ -27,5 +28,4 @@ while True:
                 
             result = ' '.join(matrix[line])
             print(result)
-
     print()
