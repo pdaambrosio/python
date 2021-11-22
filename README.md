@@ -38,3 +38,4 @@
 * [Uri1534 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1534.py)
 * [Uri1541 - Repetition](https://github.com/pdaambrosio/Python-Uri/blob/main/Repetition/uri1541.py)
 * [Uri1557 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1557.py)
+* [Uri1789 - Beginner](https://github.com/pdaambrosio/Python-Uri/blob/main/Beginner/uri1789.py)
