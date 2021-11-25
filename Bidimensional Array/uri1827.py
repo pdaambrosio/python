@@ -18,17 +18,19 @@ while True:
                 
             three -= 1
 
-        for line in range(one, (n - 1)):
-            for column in range(one, (n - 1)):
+        for line in range(one, (n - one)):
+            for column in range(one, (n - one)):
                 matrix[line][column] = 1
 
                 if line == (n // 2) and column == (n // 2):
                     matrix[line][column] = 4
 
         for line in range(n):
-            print(matrix[line])
-
-        #TODO: fix right columns for numbers greater than 5 
+            for column in range(n):
+              print(matrix[line][column], end='')
+            
+            print()
+        print()
 
     except EOFError:
         break
