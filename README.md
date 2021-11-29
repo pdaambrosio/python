@@ -42,3 +42,4 @@
 * [Uri1827 - Bidimensional Array](https://github.com/pdaambrosio/Python-Uri/blob/main/Bidimensional%20Array/uri1827.py)
 * [Uri1828 - Selection](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1828.py)
 * [Uri1837 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1837.py)
+* [Uri1847 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1847.py)
