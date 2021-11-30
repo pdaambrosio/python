@@ -43,3 +43,4 @@
 * [Uri1828 - Selection](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1828.py)
 * [Uri1837 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1837.py)
 * [Uri1847 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1847.py)
+* [Uri1848 - Numeral Systems](https://github.com/pdaambrosio/Python-Uri/blob/main/Numeral%Systems/uri1848.py)
