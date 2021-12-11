@@ -11,7 +11,7 @@ def triangle(a, b, c, d):
     if lengths(a, b, c) or lengths(a, b, d) or lengths(a, c, d) or lengths(b, c, d):
         return 'S'
     else:
-        return 'N'  
+        return 'N'
 
 
 def main():
