@@ -4,11 +4,11 @@ z = int(input())
 while z <= x:
     z = int(input())
 
-sum = x
+total_sum = x
 count = 1
 
-while sum <= z:
-    sum += x + count
+while total_sum <= z:
+    total_sum += x + count
     count += 1
 
 print(count)
