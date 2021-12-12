@@ -3,11 +3,11 @@ while True:
         n = int(input())
         matrix = [[] for num in range(n)]
 
-        for line in range(len(matrix)):
-            for column in range(len(matrix)):
+        for line, value1 in enumerate(matrix):
+            for column, value2 in enumerate(matrix):
                 matrix[column].append('3')
-            
-            count = n - 1
+
+        count = n - 1
 
         for i in range(n):
             matrix[i][i] = '1'
