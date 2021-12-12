@@ -19,6 +19,4 @@ for line in reversed(range(7, 12)):
     end_column -= 1
 
 average = sum_center / count_for_average
-
 print(round(sum_center, 1) if character == 'S' else round(average, 1))
-
