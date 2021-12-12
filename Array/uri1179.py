@@ -8,19 +8,19 @@ for i in range(15):
         even_numbers.append(number)
     else:
         odd_numbers.append(number)
-    
+
     if len(even_numbers) == 5:
-        for n in range(len(even_numbers)):
-            print(f'par[{n}] = {even_numbers[n]}')
+        for index, value in enumerate(even_numbers):
+            print(f'par[{index}] = {value}')
         even_numbers.clear()
 
     if len(odd_numbers) == 5:
-        for n in range(len(odd_numbers)):
-            print(f'impar[{n}] = {odd_numbers[n]}')
+        for index, value in enumerate(odd_numbers):
+            print(f'impar[{index}] = {value}')
         odd_numbers.clear()
 
-for n in range(len(odd_numbers)):
-    print(f'impar[{n}] = {odd_numbers[n]}')
+for index, value in enumerate(odd_numbers):
+    print(f'impar[{index}] = {value}')
 
-for n in range(len(even_numbers)):
-    print(f'par[{n}] = {even_numbers[n]}')
+for index, value in enumerate(even_numbers):
+    print(f'par[{index}] = {value}')
