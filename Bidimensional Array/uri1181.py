@@ -1,6 +1,6 @@
 line = int(input())
 character = input()
-sum = 0
+total_sum = 0
 average = 0
 count = 0
 
@@ -10,7 +10,7 @@ for list_x in range(12):
 
         if list_x == line:
             count += 1
-            sum += number
-            average = sum / count
+            total_sum += number
+            average = total_sum / count
 
-print(round(sum, 1) if character.upper() == 'S' else round(average, 1))
+print(round(total_sum, 1) if character.upper() == 'S' else round(average, 1))
