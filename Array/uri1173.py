@@ -6,5 +6,5 @@ for i in range(9):
     x *= 2
     x_list.append(x)
 
-for num in range(len(x_list)):
+for num, value in enumerate(x_list):
     print(f'N[{num}] = {x_list[num]}')
