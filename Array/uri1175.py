@@ -4,5 +4,5 @@ for i in range(20):
 
 n_list.reverse()
 
-for i in range(len(n_list)):
-    print(f'N[{i}] = {n_list[i]}')
+for index, value in enumerate(n_list):
+    print(f'N[{index}] = {value}')
