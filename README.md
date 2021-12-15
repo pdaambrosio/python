@@ -48,3 +48,5 @@
 * [Uri1864 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1864.py)
 * [Uri1914 - Beginner](https://github.com/pdaambrosio/Python-Uri/blob/main/Beginner/uri1914.py)
 * [Uri1929 - Others](https://github.com/pdaambrosio/Python-Uri/blob/main/Others/uri1929.py)
+* [Uri1933 - Others](https://github.com/pdaambrosio/Python-Uri/blob/main/Others/uri1933.py)
+* [Uri1957 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1957.py)

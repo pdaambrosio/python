@@ -3,7 +3,7 @@ def tri_du(n1, n2):
 
     if n1 < n2:
         larger_value = n2
-    
+
     return larger_value
 
 
