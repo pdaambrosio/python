@@ -51,3 +51,4 @@
 * [Uri1933 - Others](https://github.com/pdaambrosio/Python-Uri/blob/main/Others/uri1933.py)
 * [Uri1957 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1957.py)
 * [Uri1958 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1958.py)
+* [Uri1960 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1960.py)
