@@ -55,3 +55,4 @@
 * [Uri1961 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1961.py)
 * [Uri1962 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1962.py)
 * [Uri1963 - Ad-Hoc](https://github.com/pdaambrosio/Python-Uri/blob/main/Ad-Hoc/uri1963.py)
+* [Uri1973 Simulation - Star Trek](https://github.com/pdaambrosio/Python-Uri/blob/main/Simulation/uri1973.py)
