@@ -60,3 +60,4 @@
 * [Uri1983 - Selection - The Chosen](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri1983.py)
 * [Uri1984 - Math - The Pronalância Puzzle](https://github.com/pdaambrosio/Python-Uri/blob/main/Math/uri1984.py)
 * [Uri1985 - Math - MacPRONALTS](https://github.com/pdaambrosio/Python-Uri/blob/main/Math/uri1985.py)
+* [Uri2003 - Beginner - Sunday Morning](https://github.com/pdaambrosio/Python-Uri/blob/main/Beginner/uri2003.py)
