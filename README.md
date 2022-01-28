@@ -62,3 +62,4 @@
 * [Uri1985 - Math - MacPRONALTS](https://github.com/pdaambrosio/Python-Uri/blob/main/Math/uri1985.py)
 * [Uri2003 - Beginner - Sunday Morning](https://github.com/pdaambrosio/Python-Uri/blob/main/Beginner/uri2003.py)
 * [Uri2028 - Imaginary Universe - Sequence of Sequence](https://github.com/pdaambrosio/Python-Uri/blob/main/Imaginary%20Universe/uri2028.py)
+* [Uri2057 - Selection - Time Zone](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri2057.py)
