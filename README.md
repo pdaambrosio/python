@@ -63,4 +63,4 @@
 * [Uri2003 - Beginner - Sunday Morning](https://github.com/pdaambrosio/Python-Uri/blob/main/Beginner/uri2003.py)
 * [Uri2028 - Imaginary Universe - Sequence of Sequence](https://github.com/pdaambrosio/Python-Uri/blob/main/Imaginary%20Universe/uri2028.py)
 * [Uri2057 - Selection - Time Zone](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri2057.py)
-* [Uri2059 - Selection - Odd, Even or Cheating](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri2059.js)
+* [Uri2059 - Selection - Odd, Even or Cheating](https://github.com/pdaambrosio/Python-Uri/blob/main/Selection/uri2059.py)
