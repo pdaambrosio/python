@@ -1,8 +1,7 @@
 def the_return_of_radar(test_case: int) -> int:
     if test_case % 2 == 0:
         return (test_case * 2) - 2
-    else:
-        return (test_case * 2) - 1
+    return (test_case * 2) - 1
 
 
 def main():
